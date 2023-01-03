@@ -1,8 +1,9 @@
 package com.example.yukbaca.models;
 
+import java.io.Serializable;
 import java.util.List;
 
-public class NewsApiResponse {
+public class NewsApiResponse implements Serializable {
     String status;
     int totalResult;
     List<NewsHeadlines> articles;

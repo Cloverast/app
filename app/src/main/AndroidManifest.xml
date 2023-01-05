@@ -8,9 +8,9 @@
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@android:drawable/sym_action_chat"
+        android:icon="@android:drawable/ic_menu_agenda"
         android:label="YukBaca"
-        android:roundIcon="@android:drawable/sym_action_chat"
+        android:roundIcon="@android:drawable/ic_menu_agenda"
         android:supportsRtl="true"
         android:theme="@style/Theme.YukBaca"
         tools:targetApi="31">
